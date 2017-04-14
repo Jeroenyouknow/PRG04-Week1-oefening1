@@ -1,11 +1,8 @@
 # PRG04 Week 1 Oefening 1
 
-In het javascript bestand staat code die onderstaande opdracht uitvoert, alleen deze code bevat :
-- syntax fouten (verkeerd getypte code)
-- logica fouten (de code doet niet wat het moet doen)
+In het javascript bestand staat code die onderstaande opdracht uitvoert, alleen deze code bevat logica fouten (de code doet niet wat het moet doen).
 
 ## Opdracht
-- Fix de syntax fouten
 - Maak de logica kloppend
 
 ## Eindresultaat
