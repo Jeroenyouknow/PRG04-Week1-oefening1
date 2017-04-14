@@ -17,10 +17,10 @@ function buildButtons() {
 }
 
 // build one button that changes its label when clicked
-function createButton(startWord, endWord) {
+function createButton() {
   let button = document.createElement("button");
-  button.innerHTML = startWord;
-  button.endText = "new word here";
+  button.innerHTML = "start word here";
+  button.endText = "end word here";
 
   button.addEventListener("click", function(e) {
     e.target.innerHTML = "new word here";
