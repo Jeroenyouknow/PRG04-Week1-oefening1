@@ -14,3 +14,7 @@ Dum Dam Da Dum Da Da Da Dum That's The Way You've Got To Go
 - Als je op de buttons klikt worden de labels vervangen door de woorden uit de eerste regel tekst van ['no limits' van 2 Unlimited](https://www.youtube.com/watch?v=RkEXGgdqMz8)
 
 No No No No No No No No No No No No There's No Limit
+
+## Status
+
+Versie 1.0 gemaakt zit een fout erin waardoor er geen buttons worden aangemaakt.
