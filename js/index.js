@@ -16,7 +16,7 @@ function init() {
 
 // build the row of buttons. each button has one label from the list of words
 function buildButtons() {
-  for (let i = 0; i < arrayStart; i++) {
+  for (let i = 0; i < arrayEnd.length; i++) {
     let button = createButton(arrayStart[i], arrayEnd[i]);
   }
 }
